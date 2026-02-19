@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/nexttechsec/node-js-insecure#readme",
   "dependencies": {
-    "@stdlib/namespace": "^0.0.12",
+    "@stdlib/namespace": "^0.3.1",
     "escape-html": "^1.0.3",
     "serve-static": "^1.12.4",
     "uuid": "^3.1.0"
